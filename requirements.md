@@ -1,4 +1,4 @@
-X-Auth-Token: 5d48b42c-f41c-49c1-b83c-48cae5f52ea3 - токен авторизации для API
+X-Auth-Token: **** - токен авторизации для API
 
 Project Requirements
 
